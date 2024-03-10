@@ -20,7 +20,7 @@ const Section = () => {
 
   return (
     <Main>
-      <h2>Hello</h2>
+      <h2>Hello Fellows</h2>
       <div className='api'>
         {/* Display the fetched data */}
         {postData.map(post => (
